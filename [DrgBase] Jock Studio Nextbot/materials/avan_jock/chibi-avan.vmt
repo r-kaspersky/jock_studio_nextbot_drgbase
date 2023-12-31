@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "avan_jock/chibi-avan"
+	"$translucent" 1
+	"$vertexalpha" 1
+}

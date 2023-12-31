@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture "yuuto_jock/chibi-yuuto"
+	"$translucent" 1
+	"$vertexalpha" 1
+}
