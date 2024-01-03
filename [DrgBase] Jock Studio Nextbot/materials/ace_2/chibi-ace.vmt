@@ -1,6 +1,0 @@
-UnlitGeneric
-{
-	$basetexture "ace_2/chibi-ace"
-	"$translucent" 1
-	"$vertexalpha" 1
-}

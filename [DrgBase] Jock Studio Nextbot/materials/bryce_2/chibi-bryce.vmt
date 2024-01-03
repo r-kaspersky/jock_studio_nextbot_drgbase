@@ -1,6 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture "bryce_2/chibi-bryce"
-	"$translucent" 1
-	"$vertexalpha" 1
-}
